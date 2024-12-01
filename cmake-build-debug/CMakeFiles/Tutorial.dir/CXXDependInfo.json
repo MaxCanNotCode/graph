@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/max/CLionProjects/Tutorial/cmake-build-debug",
+	"dir-cur-src" : "/home/max/CLionProjects/Tutorial",
+	"dir-top-bld" : "/home/max/CLionProjects/Tutorial/cmake-build-debug",
+	"dir-top-src" : "/home/max/CLionProjects/Tutorial",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/max/Desktop/ogdf.v2023.09/OGDF/include",
+		"/home/max/Desktop/ogdf.v2023.09/OGDF/build/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/max/CLionProjects/Tutorial/cmake-build-debug/CMakeFiles/Tutorial.dir"
+}
